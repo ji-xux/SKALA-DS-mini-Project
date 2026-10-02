@@ -1,0 +1,8 @@
+# Local data and environment are not submission artifacts
+.venv/
+*.mat
+.mplconfig/
+.cache/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
